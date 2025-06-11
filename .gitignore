@@ -1,0 +1,21 @@
+# Ignore virtual environment
+env/
+venv/
+.venv/
+myenv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VSCode settings
+.vscode/
+
+# Environment files
+.env
+.env.*
+
+# OS generated files
+.DS_Store
+Thumbs.db
